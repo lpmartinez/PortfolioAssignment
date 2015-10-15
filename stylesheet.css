@@ -1,6 +1,6 @@
 body {background-color:red;}
-h2 {font: Courier;}
-p {font: Times; color: white;}
-li {font: Times; color: white;}
-h1 {font: Century; color:white;}
-ul {font: Times;color: white;size: 14;}
+h2 {font-family: Courier;}
+p {font-family: Times; color: white;}
+li {font-family: Times; color: white;}
+h1 {font-family: Century;}
+ul {font-family: Times;color: white;}
