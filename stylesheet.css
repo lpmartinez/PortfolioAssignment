@@ -1,7 +1,7 @@
 body {background-color:#370A7D;}
-h2 {font-family: Arial;float: right;}
+h2 {font-family: Arial;float: center;}
 p {font-family: Times; color: #096CFF; font-size: 20px;}
 li {font-family: Times; color: #096CFF;font-size: 20px;}
-h1 {font-family: Arial;font-size: 30px; float; right}
+h1 {font-family: Arial;font-size: 30px; float; center}
 ul {font-family: Times;color:#096CFF;font-size: 20px;}
 hr {border: 2px solid;color: #000000;}
