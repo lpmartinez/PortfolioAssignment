@@ -1,12 +1,6 @@
-body {background-color:red;}
+body {background-color:#F7D18E;}
 h2 {font-family: Courier;}
-p {font-family: Times; color: black;}
+p {font-family: Times; color: #44C9FF;}
 li {font-family: Times; color: black;}
-h1 {font-family: Century;
-  margin:auto;
-  margin-top: 50px;
-  margin-right:20px;
-  margin-left: 10px;
-  margin-bottom: 5px;
-}
+h1 {font-family: Century; 20px;}
 ul {font-family: Times;color: black;}
