@@ -15,7 +15,7 @@ main {
 header {
   color: gray;
   text-align:center;
-  padding:0 20 0 20;
+  padding; 0 20 0 20;
   border: 2px black solid;
   margin: 10px;
 }
